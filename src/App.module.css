@@ -1,0 +1,40 @@
+.App-header {
+    background-color: rgb(209, 237, 240) ;
+}
+
+.QRarticle {
+  
+  background-color: white;
+}
+
+.kodeqr {
+  width: 300px;
+  justify-content: 100vw;
+  border-radius: 6%;
+  
+}
+
+.OutConteiner {
+  padding-left: 0%;
+  padding-right: 0%;
+  background-color:rgb(255, 255, 255);
+  border-radius: 6%;
+  width: 370px;
+  display: block;
+  
+}
+
+.FirstParagraf {
+  font-weight: bold;
+  text-align: center;
+  margin-left: 20px;
+  margin-right: 20px;
+  padding-top: 8px;
+}
+
+.SecondParagraf {
+    text-align: center;
+  margin-left: 20px;
+  margin-right: 20px
+  
+}
